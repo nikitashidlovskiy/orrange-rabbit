@@ -1,7 +1,8 @@
 * {
     margin: 0px;
     padding: 0px;
-
+    font-family: sans-serif;
+    font-size: 15px;
 }
 footer {
     background-color: orange;
@@ -14,83 +15,41 @@ footer {
 
 .logo-img {
     float: left;
-    height: 130px;
+    height: 100px;
     position: absolute;
-    margin-left: 200px;
+    margin-left: 10%;
 }
 
 .logo-text1 {
-    margin-top: 35px;
+    margin-top: 2%;
     color: rgb(251, 156, 6);
     position:absolute;
-    margin-left:360px;
     font-size: 35px;
+    margin-left: 46%;
 }
 .logo-text2{
-    margin-top: 70px;
+    margin-top:8%;
     color: rgb(110, 109, 107);
     position:absolute;
-    margin-left:350px;
+    margin-left:45%;
     font-size: 35px;
 }
 .logo-item{
-    width: 20%;
+    width: 40%;
 }
 
-.nav {
-    width: 80%;
-}
 
-.nav {
-      float: right;
-      font-weight: bold;
-      text-align: center;
-      color: rgb(110, 109, 107);
-}
-
-.home-nav {
-    position: absolute;
-    left: 830px;
-    top: 20px;
-    width: 55px;
-    height: 47px;
-}
-
-.about-nav {
-    position: absolute;
-    left: 950px;
-    top: 20px;
-    width: 23px;
-    height: 44px;
-  }
-  
-.work-nav {
-    position: absolute;
-    left: 1070px;
-    top: 20px;
-    width: 43px;
-    height: 43px;
+.nav{
+    width: 50%;
+    margin-top: 2%;
+    text-align: center;
 }
   
-.blog-nav {
-    position: absolute;
-    left: 1190px;
-    top: 20px;
-    width: 40px;
+.nav img{
     height: 40px;
-  }
-  
-.contact-nav {
-    position: absolute;
-    left: 1310px;
-    top: 20px;
-    width: 50px;
-    height: 35px;
 }
-  
 .slider {
     position:absolute;
-	margin-top:135px;
   	border-top: 4px solid #ff9900;
 	border-bottom: 4px solid #ff9900;
 }
@@ -100,10 +59,12 @@ footer {
     background-size: 395px;
 	color: #ff9900;
 	font-size: 35px;
-    font-weight: 395px;
     position: absolute;
-    margin-top: 265px;
+    margin-top: 140px;
     margin-left: 210px; 
+    width: 430px;
+    height: 50px;
+    text-align: center;
 }
 
 .slider-text2 {
@@ -111,15 +72,16 @@ footer {
 	color: #666666;
 	font-size: 35px;
     position: absolute;
-    margin-top: 330px;
-    font-weight: 395px;
+    margin-top: 200px;
     margin-left: 210px; 
-    background-color: rgb(255, 196, 69)
+    background-color: rgb(255, 196, 69);
+    width: 430px;
+    height: 50px;
+    text-align: center;
 }
 
 .developer{
     position: absolute;
-    margin-top: 1840px;
     width: 1600px;
     background-color: rgb(251, 156, 6);
 }
@@ -128,7 +90,7 @@ footer {
     position: absolute;
     margin-left: 700px;
     color:  rgb(251, 156, 6);
-    margin-top: 785px;
+    margin-top: 440px;
     width: 265px;
     font-size: 30px;
     width: 280px;
@@ -178,7 +140,7 @@ footer {
 .linkl{
     position: absolute;
     font-size: 15px;
-    margin-top: 705px;
+    margin-top: 735px;
     margin-left: 385px;
     color: #ff9900;
 
@@ -187,7 +149,7 @@ footer {
 .linkls{
     position: absolute;
     font-size: 15px;
-    margin-top: 705px;
+    margin-top: 735px;
     margin-left: 695px;
     color: #ff9900;
        
@@ -196,7 +158,7 @@ footer {
 .linkrs{
     position: absolute;
     font-size: 15px;
-    margin-top: 705px;
+    margin-top: 735px;
     margin-left: 985px;
     color: #ff9900;
 
@@ -205,7 +167,7 @@ footer {
 .linkr{
     position: absolute;
     font-size: 15px;
-    margin-top: 705px;
+    margin-top: 735px;
     margin-left: 1300px;
     color: #ff9900;
 }
@@ -302,48 +264,9 @@ footer {
     width: 260px;
 }
 
-.contact-text {
-    color: #ff9900;
-    font-size: 20px;
-    width: 10%;
-    float: left;
-    margin-top: 20px;
-}
 
-.form-i {
-    width: 90%;
-    float: left;
-    margin-top: 20px;
-}
 
-.form-item {
-	border-left: 4px solid #b3b3b3;
-	width: 1000px;
-	height: 30px;
-}
 
-.form-item1 {
-	border-left: 4px solid #b3b3b3;
-	width: 1000px;
-	height: 60px;
-}
-
-.form-button {
-	background-color: #ff9900;
-	width: 170px;
-	height: 50px;
-	font-size: 30px;
-    color: #ffffff;
-    margin-top: 20px;
-    margin-right: 215px;
-    float: right;
-}
-
-.contact {
-    overflow: auto;
-    margin-right: 200px;
-    margin-left: 200px;
-}
 
 .message {
     text-align: center;
@@ -355,5 +278,5 @@ footer {
     margin-right: 25%;
     margin-left: 25%;
     margin-top: 60px;
-	margin-top: 1300px
+	margin-top: 1350px
 }
