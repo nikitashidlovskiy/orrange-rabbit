@@ -135,7 +135,7 @@ footer {
 }
 .left{
     position: absolute;
-    font-size: 10px;
+    font-size: 15px;
     width: 15%;
     margin-top: 555px;
     text-align: justify;
@@ -145,7 +145,7 @@ footer {
 
 .left-second{
     position: absolute;
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 555px;
     width: 15%;
     text-align: justify;
@@ -156,7 +156,7 @@ footer {
 
 .right-second{
     position: absolute;
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 555px;
     width: 15%;
     text-align: justify;
@@ -167,7 +167,7 @@ footer {
 
 .right{
     position: absolute;
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 555px;
     width: 15%;
     text-align: justify;
@@ -177,8 +177,8 @@ footer {
 
 .linkl{
     position: absolute;
-    font-size: 10px;
-    margin-top: 605px;
+    font-size: 15px;
+    margin-top: 705px;
     margin-left: 385px;
     color: #ff9900;
 
@@ -186,8 +186,8 @@ footer {
 
 .linkls{
     position: absolute;
-    font-size: 10px;
-    margin-top: 605px;
+    font-size: 15px;
+    margin-top: 705px;
     margin-left: 695px;
     color: #ff9900;
        
@@ -195,8 +195,8 @@ footer {
 
 .linkrs{
     position: absolute;
-    font-size: 10px;
-    margin-top: 605px;
+    font-size: 15px;
+    margin-top: 705px;
     margin-left: 985px;
     color: #ff9900;
 
@@ -204,8 +204,8 @@ footer {
 
 .linkr{
     position: absolute;
-    font-size: 10px;
-    margin-top: 605px;
+    font-size: 15px;
+    margin-top: 705px;
     margin-left: 1300px;
     color: #ff9900;
 }
