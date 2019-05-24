@@ -10,7 +10,7 @@ footer {
     text-align: center;
     font-weight: 500;
     line-height: 2;
-    
+    margin-top: 1800px;
 }
 
 .logo-img {
@@ -265,7 +265,13 @@ footer {
 }
 
 
-
+.contact-text {
+    color: #ff9900;
+    font-size: 20px;
+    width: 10%;
+    float: left;
+    margin-top: 20px;
+}
 
 
 .message {
@@ -279,4 +285,49 @@ footer {
     margin-left: 25%;
     margin-top: 60px;
 	margin-top: 1350px
+}
+.contact-text {
+    color: #ff9900;
+    font-size: 20px;
+    width: 10%;
+    float: left;
+    margin-top: 20px;
+}
+
+ .form-i {
+    width: 90%;
+    float: left;
+    margin-top: 40px;
+}
+
+ .form-item {
+	border-left: 4px solid #b3b3b3;
+	width: 1000px;
+	height: 30px;
+}
+
+ .form-item1 {
+	border-left: 4px solid #b3b3b3;
+	width: 1000px;
+	height: 60px;
+}
+
+ .form-button {
+	background-color: #ff9900;
+	width: 170px;
+	height: 50px;
+	font-size: 30px;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-right: 215px;
+    float: right;
+}
+
+ .contact {
+    overflow: auto;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+form{
+    text-align: center;
 }
